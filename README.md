@@ -1,8 +1,8 @@
-Awesome Datanote
+# Awesome Datanote
 
 - [Open source modules](#open-source-modules)
 
-# Open source modules
+## Open source modules
 
 Open source datamining modules used by Datanote:
 
